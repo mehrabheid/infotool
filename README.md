@@ -1,2 +1,2 @@
 # infotool
-infotool public ripo
+infotool public ripo updated
